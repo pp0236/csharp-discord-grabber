@@ -2,6 +2,6 @@
 yesyesyes
 
 # TODO
-fix da ip!
-cannot put username in webhook idk why
+1. fix da ip!
+2. cannot put username in webhook idk why
 
