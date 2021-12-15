@@ -4,5 +4,5 @@ yesyesyes
 first .net framework 3.5 grabber???????????
 
 # TODO
-1. cannot put username in webhook idk why
+1. fix username it 400 somehow.
 
