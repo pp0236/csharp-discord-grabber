@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grab", "Grab\Grab.csproj", "{D28495A7-6C40-43F9-88FF-B7099725B47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28495A7-6C40-43F9-88FF-B7099725B47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28495A7-6C40-43F9-88FF-B7099725B47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28495A7-6C40-43F9-88FF-B7099725B47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28495A7-6C40-43F9-88FF-B7099725B47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5B96A7-5037-4FA5-9700-1FCD39F28778}
+	EndGlobalSection
+EndGlobal
