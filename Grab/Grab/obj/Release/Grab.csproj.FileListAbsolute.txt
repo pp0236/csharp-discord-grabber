@@ -1,7 +1,0 @@
-D:\VS workspace\Grab\Grab\bin\Release\Grab.exe.config
-D:\VS workspace\Grab\Grab\bin\Release\Grab.exe
-D:\VS workspace\Grab\Grab\bin\Release\Grab.pdb
-D:\VS workspace\Grab\Grab\obj\Release\Grab.csproj.SuggestedBindingRedirects.cache
-D:\VS workspace\Grab\Grab\obj\Release\Grab.csproj.CoreCompileInputs.cache
-D:\VS workspace\Grab\Grab\obj\Release\Grab.exe
-D:\VS workspace\Grab\Grab\obj\Release\Grab.pdb
