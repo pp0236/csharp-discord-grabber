@@ -1,4 +1,4 @@
-## c# discord token grabber
+## simple c# discord token grabber
 yesyesyes
 
 first .net framework 3.5 grabber???????????
