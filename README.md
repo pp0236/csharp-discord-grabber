@@ -1,7 +1,7 @@
 ## simple c# discord token grabber
 yesyesyes
 
-first .net framework 3.5 grabber???????????
+first .net framework 3.5 grabber??????????? (it mean it also work on win7 without having user to install .net framework 4.0+)
 
 <!--
 nvm it detected
